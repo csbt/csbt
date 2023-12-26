@@ -5,3 +5,5 @@ I spend a lot of time contemplating and exploring myself, reflecting on the orig
 🧩 I have created a new Git account as a significant step, a clear milestone in my journey to enhance my technological capabilities. Embracing new technological knowledge, I am not only aiming to become an excellent software engineer but also carrying a strong belief that in the not-too-distant future, I will contribute to resolving financial challenges in building and maintaining a technological product. I believe this will be the final hurdle in my journey.
 
 `Check me out! 🔭`
+***
+[![linkedIn](/assets//linkedin.svg)](https://www.linkedin.com/in/csbt7/)
