@@ -1,4 +1,5 @@
 ### Hey, I'm Hyphen 👋
+
 🌱 I'm currently on a gap hay (half a year).
 I spend a lot of time contemplating and exploring myself, reflecting on the origins of life. I recognize the precious value of time for myself, and sharing it with others is truly wonderful.
 
